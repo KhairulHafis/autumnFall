@@ -1,6 +1,6 @@
 # AutumnFall: Pull-Up Workout Tracker
 
-AutumnFall is an iOS app that tracks pull-up workouts using your iPhone’s camera and Apple’s Vision framework. Set a rep goal, align your pull-up bar during setup, and let the app count reps automatically while you train.
+AutumnFall is an iOS app that tracks pull-up workouts using your iPhone’s camera and Apple’s Vision framework. Set a rep goal, align your pull-up bar during setup, and let the app count reps automatically while you train....
 
 ## Features
 
