@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		A494A1272E16CE7900207553 /* autumnFall */ = {
+		A494A1272E16CE7900207553 /* Tempa */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = autumnFall;
+			path = Tempa;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		A494A11C2E16CE7900207553 = {
 			isa = PBXGroup;
 			children = (
-				A494A1272E16CE7900207553 /* autumnFall */,
+				A494A1272E16CE7900207553 /* Tempa */,
 				A494A1262E16CE7900207553 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				A494A1272E16CE7900207553 /* autumnFall */,
+				A494A1272E16CE7900207553 /* Tempa */,
 			);
 			name = Tempa;
 			packageProductDependencies = (
